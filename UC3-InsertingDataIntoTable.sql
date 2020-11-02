@@ -4,7 +4,7 @@ INSERT INTO [Employee_Payroll]
 )
 VALUES
 (
-    'Swapnil',50000.00,'09-18-2020'
+    'Suraj',50000.00,'09-18-2020'
 ),
 (
     'Billy', 40000.00, '04-28-2018'
